@@ -14,7 +14,7 @@ $
 
 $ apt update && apt upgrade -y
 
-$ git clone 
+$ git clone https://github.com/capitancomando/module-mechanize-solutions/blob/main/README.md
 
 $ cd module-mechanize-solutions
 

@@ -1,4 +1,4 @@
-# module-mechanize-solutions
+# 📱module-mechanize-solutions📱
 
 Con Este Script Podras Solucionar el error ala hora de ejecutar python
 El error que dice: 
@@ -9,7 +9,7 @@ ImportError: No module named mechanize
 $
 
 
-📲📱🌐Comandos de instalacion📱🌐📲
+📱Comandos de instalacion📱
 
 
 $ apt update && apt upgrade -y
